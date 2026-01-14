@@ -95,7 +95,7 @@
   (:name "Joseph Szymborski"
   :site "https://jszym.com/"
   :blog "https://jszym.com/blog/"
-  :feed "https://jszym.com/https://jszym.com/index.xml"
+  :feed "https://jszym.com/index.xml"
   :about "https://jszym.com/about/"
   :hnuid "jszymborski"
   :bio "Computational Biology Researcher. Writes technical posts and essays about society.")
