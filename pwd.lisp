@@ -104,7 +104,7 @@
   :site "https://www.mattcrampton.com"
   :feed "https://www.mattcrampton.com/feed.xml"
   :hnuid "revicon"
-  :bio "Writes about software development, startups, camping and beards")
+  :bio "Writes about software development, startups, camping and beards.")
 
  (:name "Matteo"
   :site "https://xnacly.me/"
