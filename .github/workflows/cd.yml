@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-      - wip
 jobs:
   cd:
     runs-on: ubuntu-latest
@@ -15,4 +14,5 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - run: sudo apt-get install sbcl
+      - run: make test-all
       - run: make ghpg
