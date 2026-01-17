@@ -201,13 +201,13 @@
   :bio "Tools developer and Python educator.")
 
  (:name "Kevin Dangoor"
-  :site "https://kevindangoor.com/"
+  :site "https://www.kevindangoor.com/"
   :blog "https://www.kevindangoor.com/posts/"
   :feed "https://www.kevindangoor.com/index.xml"
   :about "https://www.kevindangoor.com/about"
   :hnuid "dangoor"
-  :bio "Staff Eng at GitHub. Founder of CommonJS and TurboGears. Author.")
- 
+  :bio "Staff Engineer at GitHub.  Founder of CommonJS and TurboGears.  Author.")
+
  (:name "Kevin Scott Dias"
   :site "https://www.kevinsdias.com/"
   :blog "https://www.kevinsdias.com/writing.html"
@@ -227,7 +227,7 @@
   :site "https://ktross.com/"
   :feed "https://ktross.com/rss.xml"
   :hnuid "ktross"
-  :bio "Software Engineer.  Interested in DevOps, DevEx and programming languages.")
+  :bio "Software engineer.  Interested in DevOps, DevEx and programming languages.")
 
  (:name "Laurent P. René de Cotret"
   :site "https://laurentrdc.xyz/"
