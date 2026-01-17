@@ -332,8 +332,8 @@
   (let ((entries (read-entries)))
     (validate entries)
     (unless (validate-only-p)
-      (write-file "hnpwd.opml" (make-opml entries))
-      (write-file "index.html" (make-html entries)))))
+      (write-file "web/hnpwd.opml" (make-opml entries))
+      (write-file "web/index.html" (make-html entries)))))
 
 (when *main-mode*
   (main))

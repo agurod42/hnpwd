@@ -7,7 +7,7 @@ gen:
 	sbcl --noinform --load gen.lisp --quit
 
 tidy:
-	tidy -q -e index.html
+	tidy -q -e web/index.html
 
 loop:
 	while true; do make gen; sleep 5; done
