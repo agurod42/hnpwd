@@ -352,6 +352,13 @@
   :feed "https://trms.me/feed/"
   :hnuid "trms"
   :bio "Product manager.  Writes about knowledge management and random hobbies.")
+ 
+ (:name "Mackenzie Criswell"
+  :site "https://makc.co/"
+  :blog "https://makc.co/essays/"
+  :feed "https://makc.co/feed.xml"
+  :hnuid "makc"
+  :bio "Writes about tech and other things.  Sometimes publishes free stuff.")
 
  (:name "Matt Crampton"
   :site "https://www.mattcrampton.com/"
