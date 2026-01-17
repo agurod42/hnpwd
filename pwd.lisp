@@ -57,6 +57,14 @@
   :hnuid "wttr"
   :bio "An IT sales/project manager turned web developer.")
 
+ (:name "Amit Kumar"
+ :site "https://nextfive.xyz/"
+ :feed "https://nextfive.xyz/feed.xml"
+ :about "https://nextfive.xyz/about/"
+ :now "https://nextfive.xyz/now/"
+ :hnuid "heyamitkmr"
+ :bio "Building software, taking pictures and writing while exploring what's next.")
+
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
   :feed "https://amontalenti.com/feed"
