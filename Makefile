@@ -49,6 +49,8 @@ ghpg:
 # Targets to Publish Mirrors
 # --------------------------
 
+mirror: cbpg cb
+
 # Publish website to Codeberg Pages.
 cbpg:
 	rm -rf /tmp/pages/
