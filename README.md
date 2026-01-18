@@ -75,9 +75,9 @@ before requesting its inclusion in the directory:
     blog posts, projects or games developed by the author.  Websites
     that consist only of a CV or portfolio are not suitable for
     inclusion in this directory.  This requirement helps keep the
-    directory interesting and meaningful, and prevents it from
-    becoming a collection of minimal or placeholder websites with
-    little value to the community.
+    directory interesting and prevents it from becoming a collection
+    of minimal or placeholder websites with little value to the
+    community.
 
     Websites with only a small number of pages or articles are usually
     not included immediately.  However, they are not rejected
@@ -87,7 +87,7 @@ before requesting its inclusion in the directory:
     original works (excluding usual meta pages such as about, contact,
     etc.).  Exceptions may be made in some cases, for example when a
     site has only a few posts but one or more of them have been very
-    well received on HN.  This requirement helps ensure that visitors.
+    well received on HN.  This requirement helps ensure that visitors
     arriving from the directory will find enough interesting content
     to explore.
 
