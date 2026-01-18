@@ -437,6 +437,13 @@
   :hnuid "neilkakkar"
   :bio "Software engineer.  Writes about technology, psychology and critical thinking.")
 
+ (:name "Nic Chan"
+  :site "https://www.nicchan.me/"
+  :blog "https://www.nicchan.me/blog/"
+  :feed "https://www.nicchan.me/feed.xml"
+  :about "https://www.nicchan.me/about/"
+  :bio "Member of the W3C Maps4HTML community.  Writes about web development.")
+
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
   :feed "https://nchagnet.pages.dev/rss.xml"
@@ -449,7 +456,7 @@
   :about "https://nikhil.io/about/"
   :hnuid "afreeorange"
   :bio "Former fullstack engineer.  Biomedical informatics grad student in NYC.")
- 
+
  (:name "Nikola Balić"
   :site "https://www.nibzard.com/"
   :feed "https://www.nibzard.com/rss.xml"
