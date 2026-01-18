@@ -558,6 +558,13 @@
   :hnuid "philip1209"
   :bio "Writes about crafting digital tools.")
 
+ (:name "Preet Shah"
+  :site "https://shahpreetk.com/"
+  :blog "https://shahpreetk.com/blog"
+  :feed "https://shahpreetk.com/blog/rss.xml"
+  :about "https://shahpreetk.com/portfolio/about-me"
+  :bio "Self-taught developer, ardent kitty lover and a painter.")
+
  (:name "Priyatham Bazaru"
   :site "https://priyatham.in/"
   :blog "https://priyatham.in/en/post/"
@@ -641,7 +648,7 @@
   :feed "https://www.stefanjudis.com/rss.xml"
   :about "https://www.stefanjudis.com/about/"
   :hnuid "stefanjudis"
-  :bio "Frontend developer, web educator and blogger.")
+  :bio "Front-end developer, web educator and blogger.")
 
  (:name "Steven DeGraeve"
   :site "https://www.degraeve.com/"
@@ -695,6 +702,13 @@
   :feed "https://torrin.me/blog"
   :hnuid "torrinleonard"
   :bio "Founder and developer.  Builds AI-powered web apps and custom UI frameworks.")
+
+ (:name "Utkarsh Tiwari"
+  :site "https://utk09.com/"
+  :blog "https://utk09.com/blogs"
+  :feed "https://utk09.com/blogs/rss.xml"
+  :hnuid "utk09"
+  :bio "Front-end developer and avid reader of murder mystery novels.")
 
  (:name "Vermaden"
   :site "https://vermaden.wordpress.com/"
