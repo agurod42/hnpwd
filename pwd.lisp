@@ -443,6 +443,13 @@
   :hnuid "mkasberg"
   :bio "Husband.  Father.  Software engineer.  Ubuntu Linux user.")
 
+ (:name "Nabraj"
+  :site "https://nabraj.com/"
+  :blog "https://nabraj.com/blog"
+  :feed "https://nabraj.com/rss.xml"
+  :hnuid "coffeecoders"
+  :bio "Full-stack engineer, now focused on breadboards and building robots.")
+
  (:name "Neil Kakkar"
   :site "https://neilkakkar.com/"
   :blog "https://neilkakkar.com/blog/"
@@ -458,12 +465,6 @@
   :about "https://www.nicchan.me/about/"
   :bio "Member of the W3C Maps4HTML community.  Writes about web development.")
 
- (:name "Nabraj"
-  :site "https://nabraj.com/"
-  :blog "https://nabraj.com/blog"
-  :feed "https://nabraj.com/rss.xml"
-  :bio "Full-stack engineer, currently throwing all his energy on breadboards and robots.")
- 
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
   :feed "https://nchagnet.pages.dev/rss.xml"
