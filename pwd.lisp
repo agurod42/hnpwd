@@ -322,8 +322,9 @@
  (:name "Jamie Tanna"
   :site "https://www.jvt.me/"
   :blog "https://www.jvt.me/kind/articles/"
+  :feed "https://www.jvt.me/feed.xml"
   :hnuid "jamietanna"
-  :bio "Self-documenting engineer + Open Source maintainer of Renovate and oapi-codegen.")
+  :bio "Self-documenting engineer.  Open source maintainer of Renovate and oapi-codegen.")
 
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
