@@ -671,6 +671,13 @@
   :hnuid "susam"
   :bio "Creator of Emacs devil-mode.  Writes about technology and mathematics.")
 
+ (:name "Tamimi"
+  :site "https://tamim.io/"
+  :feed "https://tamim.io/atom.xml"
+  :about "https://tamim.io/about_me/"
+  :hnuid "tamimio"
+  :bio "Electrical engineer obsessed with drones, robotics, automation and cybersec.")
+
  (:name "Tegan Lamoureux"
   :site "https://teeg.no/"
   :blog "https://teeg.no/blog/"
@@ -678,13 +685,6 @@
   :now "https://teeg.no/now"
   :hnuid "birdsongs"
   :bio "Nostalgic embedded engineer, writes about photography and non-technical topics.")
-
- (:name "Tamimi"
-  :site "https://tamim.io/"
-  :feed "https://tamim.io/atom.xml"
-  :about "https://tamim.io/about_me/"
-  :hnuid "tamimio"
-  :bio "Electrical engineer obsessed with drones, robotics, automation and cybersec.")
 
  (:name "Theodore Morley"
   :site "https://tjmorley.com/"
